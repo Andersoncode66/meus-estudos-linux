@@ -79,3 +79,35 @@
 -----------------------------------------------------------------------------------------------------------
 
 ## Manipulando Arquivos no Linux
+
+### 🔹 Exercícios: Localizando Arquivos
+
+#### 1️⃣ Localizando um arquivo específico
+- Encontre o arquivo passwd dentro do diretório /etc.
+
+#### 2️⃣ Buscando arquivos por extensão
+- Liste todos os arquivos com entensão .conf dentro de /etc.
+
+#### 3️⃣ Procurando arquivos em um diretório específico
+- Encontre todos os arquivos .log dentro do diretório /var/log.
+
+#### 4️⃣ Localizando arquivos pelo nome
+- Encontre todos os arquivos que contêm palavra "backup" no nome dentro do seu diretório pessoal.
+
+#### 5️⃣ Procurando arquivos ignorando maiúsculas e minúsculas
+- Localize todos os arquivos que contenham a palavra "config", sem diferenciar letras maiúsculas e minúsculas.
+
+#### 6️⃣ Buscando arquivos por tamanho
+- Encontre arquivos maiores que 10MB dentro do diretório /home.
+
+#### 7️⃣ Filtrando por data de modificação
+- Liste todos os arquivos dentro de /var/log que foram modificados nos últimos 7 dias.
+
+#### 8️⃣ Procurando arquivos por tipo
+- Localize todos os arquivos que são executáveis dentro de /usr/bin.
+
+#### 9️⃣ Encontrando diretórios específicos
+- Encontre o diretório chamado "scripts"em qualquer lugar do sistema.
+
+#### 🔟 Localizando arquivos com usuários específicos
+- Encontre todos os arquivos pertencentes ao usuáriros root dentro do diretório /etc.
