@@ -111,3 +111,44 @@
 
 #### 🔟 Localizando arquivos com usuários específicos
 - Encontre todos os arquivos pertencentes ao usuáriros root dentro do diretório /etc.
+
+------------------------------------------------------------------------------------------------------------
+
+## Manipulando Arquivos no Linux
+
+### 🔹 Exercícios: Criando diretórios
+
+#### 1️⃣ Criando um diretórios simples
+- Crie um diretório chamado projetos dentro do seu diretório pessoal.
+
+#### 2️⃣ Criando múltiplos diretórios de uma vez
+- Crie os diretórios docs, imagens e sripts dentro do diretório projetos.
+
+#### 3️⃣ Criando um diretório dentro de um caminho inexistente
+- Crie o diretório /home/seu_usuario/backup/2025 em um único comando, garantindo que os diretórios intermediários sejam criados.
+
+#### 4️⃣ Criando diretórios com nomes compostos
+- Crie um diretório chamado meus arquivos (com espaço no nome).
+
+#### 5️⃣ Criando um diretório e entrando nele automaticamente
+- Crie um diretório chamado testes e mude para ele imediatamente.
+
+#### 6️⃣ Criando diretórios com estrutura hierárquica
+- Em um único comando, crie a seguinte estrutura:
+
+![Capturar_2025_02_18_15_52_58_265](https://github.com/user-attachments/assets/1939d797-85d8-4cad-93b8-6808927cb387)
+
+#### 7️⃣ Criando múltiplos diretórios com um padrão numérico
+- Crie os diretórios backup_1, backup_2, .., backup_5.
+
+#### 8️⃣ Criando diretórios com permissões específicas
+- Crie um diretório chamado privado com permmissão de acesso apenas para o dono.
+
+#### 9️⃣ Criando diretórios com nomes baseados na data atual
+- Crie um diretório chamado backup_YYYY-MM-DD usando a data do sistema.
+
+#### 🔟 Verificando se um diretório já existe antes de criá-lo
+- Antes de criar um diretório chamado logs, verifique se ele já existe.
+
+💡 Dica: Para resolver esses exercícios, utilize os comandos mkdir, cd, ls, chmod, date e test.
+
