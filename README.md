@@ -152,3 +152,45 @@
 
 💡 Dica: Para resolver esses exercícios, utilize os comandos mkdir, cd, ls, chmod, date e test.
 
+--------------------------------------------------------------------------------------------------------------------------
+
+## Manipulando Arquivos No Linux
+
+### 🔹 Exercícios: Excluindo Arquivos e Diretórios
+
+#### 1️⃣ Removendo um arquivo simples
+- Crie um arquivo teste.txt e depois exclua-o.
+
+#### 2️⃣ Excluindo múltiplos arquivos de uma vez
+- Crie três arquivos (file1.txt, file2.txt e file3.txt) e depois exclua todos de uma só vez.
+
+#### 3️⃣ Removendo um diretório vazio
+- Crie um diretório chamado temp e depois exclua-o.
+
+#### 4️⃣ Removendo um diretório com arquivos dentro
+- Crie um diretório backup com alguns arquivos dentro e depois exclua tudo de uma vez.
+
+#### 5️⃣ Excluindo apenas arquivos de um determinado tipo
+- Dentro de um diretório, crie arquivos .txt, .log e .sh. Depois, exclua apenas os arquivos .log.
+
+#### 6️⃣ Forçando a exclusão de arquivos protegidos
+- Crie um arquivo chamado protegido.txt, altere suas permissões para somente leitura, e depois exclua-o forçadamente.
+
+#### 7️⃣ Removendo diretórios recursivamente
+- Crie a seguinte estrutura e depois exclua tudo com um único comando:
+
+
+![Capturar_2025_02_26_07_07_41_338](https://github.com/user-attachments/assets/afb1f2d0-8783-4680-a964-ef777a97ea50)
+
+
+#### 8️⃣ Excluindo arquivos modificados recentemente
+- Dentro de um diretório, crie arquivos com diferentes datas de modificação e depois exclua apenas os que foram modificados nas últimas 24 horas.
+
+#### 9️⃣ Evitando remoções acidentais
+- Ative a opção de confirmação antes de excluir e tente remover um arquivo.
+
+#### 🔟 Verificando arquivos antes de remover
+- Liste os arquivos que seriam excluídos antes de realmente executar a exclusão.
+
+
+
