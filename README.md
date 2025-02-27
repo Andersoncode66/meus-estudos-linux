@@ -193,4 +193,27 @@
 - Liste os arquivos que seriam excluídos antes de realmente executar a exclusão.
 
 
+----------------------------------------------------------------------------------------------
+
+## Manipulando Arquivos No Linux
+
+### 🔹 Exercícios: Obtendo Ajuda no Linux
+
+#### 1️⃣ Usando o manual do sistema
+- Encontre informações detalhadas sobre o comando ls usando o manual do Linux.
+
+#### 2️⃣ Exibindo a ajuda resumida de um comando
+- Descubra quais opções o comando mkdir possui sem abrir o manual completo.
+
+#### 3️⃣ Procurando um comando quando não sabe o nome exato
+- Encontre comandos relacionados à manipulação de diretórios.
+
+#### 4️⃣ Vendo apenas exemplos de uso de um comando
+- Use a ferramenta adequada para visualizar exemplos práticos do comando find.
+
+#### 5️⃣ Descobrindo a localização de um comando no sistema
+- Verifique o caminho exato onde o comando grep está armazenado no seu sistema.
+
+💡 Dica: Para resolver esses exercícios, experimente os comandos man, --help, apropos, whatis, which e tldr.
+
 
